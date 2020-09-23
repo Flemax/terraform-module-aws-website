@@ -32,14 +32,6 @@ Ce module permet de créer un site web avec un nom de domaine et va créer les r
 
 Version courante : v1.0
 
-### Utilisation
-
-Lors de la déclaration du module, ajouter la source : 
-````
-source = "git::ssh://bitbucket.org/tigf_bitbucket/terraform-mod-aws-website.git?ref=vx.x"
-````
-Préciser la version voulue en remplaçant vx.x.
-
 ### Arguments obligatoires
 
 |Nom|Type|Description|
